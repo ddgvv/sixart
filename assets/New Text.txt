@@ -1,1 +1,1 @@
-sass --watch "C:\Users\Admin\Dropbox\Farhan Firoz\sixart\assets\scss\main.scss":"C:\Users\Admin\Dropbox\Farhan Firoz\sixart\assets\css\style.css"
+sass --watch "C:\Users\Admin\Dropbox\Farhan Firoz\Skyzoa\assets\scss\main.scss":"C:\Users\Admin\Dropbox\Farhan Firoz\Skyzoa\assets\css\style.css"
